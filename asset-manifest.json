@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-shopping-cart/static/css/main.b49568e2.css",
-    "main.js": "/react-shopping-cart/static/js/main.bb3b1e6b.js",
+    "main.js": "/react-shopping-cart/static/js/main.0394182b.js",
     "static/media/add_to_cart_button.svg": "/react-shopping-cart/static/media/add_to_cart_button.e5a98a13552dd59bb30b56dd7831fa85.svg",
     "static/media/shop_logo.svg": "/react-shopping-cart/static/media/shop_logo.eae962bdf8dc3438d411f8a9aedd91e3.svg",
     "static/media/trash_can_icon.svg": "/react-shopping-cart/static/media/trash_can_icon.881c7ba9a793e5e76428d79f04080434.svg",
@@ -9,10 +9,10 @@
     "static/media/increase_button.svg": "/react-shopping-cart/static/media/increase_button.dc55c1ed977684900c2298a0b2eea59e.svg",
     "static/media/decrease_button.svg": "/react-shopping-cart/static/media/decrease_button.70f692f3576a079a7144777a9cce97d4.svg",
     "main.b49568e2.css.map": "/react-shopping-cart/static/css/main.b49568e2.css.map",
-    "main.bb3b1e6b.js.map": "/react-shopping-cart/static/js/main.bb3b1e6b.js.map"
+    "main.0394182b.js.map": "/react-shopping-cart/static/js/main.0394182b.js.map"
   },
   "entrypoints": [
     "static/css/main.b49568e2.css",
-    "static/js/main.bb3b1e6b.js"
+    "static/js/main.0394182b.js"
   ]
 }
